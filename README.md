@@ -1,1 +1,1 @@
-# rock-prper-siser
+# rock-paper-scissor-boilerplate
